@@ -1,0 +1,53 @@
+body{
+    font:15px,Arial,Helvetica,sans-serif;
+    margin:0;
+    padding:0;
+    background-color: #ffffff;
+}
+/*global*/
+.container{
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+header{
+    background: #7952b3;;
+    color:#02e7a2 ;
+    padding-top:30px;
+    min-height: 70px;
+    border-bottom: #02e7a2 3px solid;
+
+}
+ header a{
+    color:#02e7a2 ;
+    text-decoration: none;
+    font-size:16px;
+ }
+ header ul{
+    margin:0;
+     padding:0;
+     
+ }
+ header li{
+     float:left;
+     display:inline;
+     padding:0 20px 0 20px;
+ }
+ header #branding{
+     float:left;
+ }
+ header #branding h1{
+     margin: 0;
+ }
+  header nav{
+      float:right;
+      margin-top:15px;
+  }
+
+
+
+
+
+
+
